@@ -1,0 +1,137 @@
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+.sidebar {
+  width: 300px;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.schedule-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.schedule-table th, .schedule-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.subject-box {
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 4px;
+  margin: 2px 0;
+}
+.scroll-container {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.letter{
+  font-size: 13px;
+  white-space: normal;  /* Permite que el texto se divida en varias líneas */
+  word-wrap: break-word; /* Rompe palabras largas si es necesario */
+  overflow-wrap: break-word;
+}
+.maginP{
+  margin: 0px;
+}
+.letterReal{
+  font-size: 12.5px;
+}
+.letterMinium{
+  font-size: 12px;
+}
+img {
+  width: 300px;  /* Cambia el ancho */
+  height: 100px; /* Cambia la altura */
+}
+.img2 {
+  width: 150px;  /* Cambia el ancho */
+  height: 150px; /* Cambia la altura */
+}
+
+.fondo1 {
+  background-color: #eaeaea; /* Color gris claro */
+}
+.fondo2 {
+  background-color: #aca8ff; /* Color gris claro */
+}
+.table-with-background {
+  position: relative;
+  overflow: hidden;
+}
+mat-expansion-panel-header{
+  background-color: #c90466 !important;
+  border: none !important;
+}
+
+.mat-expansion-panel{
+  --mat-expansion-container-background-color:#dfbed4 ;
+  background-color: var(--mat-expansion-container-background-color);
+}
+/* .mat-expansion-panel-content{
+  --mat-expansion-container-background-color:#aca8ff ;
+  background-color: var(--mat-expansion-container-background-color);
+} */
+.mat-expansion-panel-body{
+  background-color: #071659 !important;
+}
+mat-panel-title{
+  color: #ffffff !important;
+}
+
+/* .mat-accordion{
+  background-color: #071659 !important;
+} */
+.table-with-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('src/assets/img/dragon.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.1; /* Controla la transparencia de la imagen de fondo */
+  z-index: -1; /* Asegura que la imagen quede detrás del contenido */
+}
+h1 {
+  font-family: cursive;
+}
+button{
+  font-size: 25px;
+  border: 2px solid #000000;
+  background: #000000;
+  border-radius: 20px;
+  color: #ffffff;
+}
+
+
+.schedule-table thead tr:first-child th {
+  background-color: #c90466 !important; 
+  color: #ffffff;
+}
+
+.schedule-table tbody tr td:first-child {
+  background-color: #c90466 !important;
+  color: #ffffff;
+}

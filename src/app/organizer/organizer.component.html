@@ -1,0 +1,70 @@
+<div class="container">
+
+  <div class="row"></div>
+
+
+
+  <div class="row">
+
+    <div class="col-12 d-flex justify-content-center align-items-center">
+      <!-- <h1 class="me-3">HORARIO - SIAT</h1> -->
+      <img class="mt-4" src="assets/img/titulonom2.png" alt="titulo" width="250">
+      <img class="mt-4 img2" src="assets/img/cabeza.png" alt="titulo" width="100">
+    </div>
+    <br>
+    <div class="col-sm-12 col-lg-4  mt-4">
+      <mat-accordion>
+        <mat-expansion-panel *ngFor="let semestre of semestres">
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              {{ semestre.nombre }}
+            </mat-panel-title>
+          </mat-expansion-panel-header>
+          <mat-accordion>
+            <mat-expansion-panel *ngFor="let materia of semestre.materias">
+              <mat-expansion-panel-header>
+                <mat-panel-title>
+                  {{ materia.nombre }}
+                </mat-panel-title>
+              </mat-expansion-panel-header>
+              <mat-list>
+                <mat-list-item *ngFor="let docente of materia.docentes" class="p-0">
+                  <p  class="letter mb-0"> <input type="checkbox" (change)="toggleSubject(docente, $event,materia?.nombre)" /> GR:{{docente.group}} {{ docente?.name }}</p>
+                </mat-list-item>
+              </mat-list>
+            </mat-expansion-panel>
+          </mat-accordion>
+        </mat-expansion-panel>
+      </mat-accordion>
+    </div>
+    <div class="col-sm-12 col-lg-8  mt-4" >
+      <table class="schedule-table  table-with-background" #contenido>
+        <thead>
+          <tr>
+            <th class="fondo1">Hora</th>
+            <th class="fondo1" *ngFor="let day of days">
+              {{ day }}
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let hour of hours">
+            <td class="fondo1">{{ hour }}</td>
+            <td *ngFor="let day of days">
+              <div *ngIf="selectedSubjects.length > 0">
+                <div *ngFor="let subject of getSubjectsForCell(day, hour)" class="subject-box"
+                  [ngStyle]="{ 'background-color': subject.color }">
+                  <p class="letterReal m-0">GR:{{subject.group}}<br /><b>{{ subject.subjectName}}</b><br />AULA: {{ subject.classRoom }}</p>
+                  <p class="m-0 letterMinium" *ngIf="subject?.auxiliary"><b>Auxiliatura</b></p>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-12 mt-10 d-flex justify-content-center align-items-center">
+      <button style="width:200px; height:50px; " class="btn btn-sm ms-2 mt-4" type="button" (click)="generateImage()">Descargar</button>
+    </div>
+  </div>
+</div>
