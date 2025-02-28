@@ -1867,7 +1867,7 @@ export class OrganizerComponent {
             },
             {
               id:106,
-              name:'CHOQUEPALPA RIOZ ORLANDO DANIEL', group:'02', days:[
+              name:'CHOQUEPALPA RIOZ ORLANDO DANIEL', group:'21', days:[
                 {
                   day:'Jueves', start:'06:45', end:'08:15', classRoom:'E109'
                 },
