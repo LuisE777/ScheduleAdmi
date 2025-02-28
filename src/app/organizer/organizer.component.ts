@@ -595,7 +595,7 @@ export class OrganizerComponent {
             },
             {
               id:33,
-              name:'MONTANO MONTANO JOSE',
+              name:'POR DESIGNAR DOCENTE',
               group:'21',
               days:[
                 {
@@ -1379,7 +1379,7 @@ export class OrganizerComponent {
             },
             {
               id:76,
-              name:'MONTANO MONTANO JOSE',
+              name:'POR DESIGNAR DOCENTE',
               group:'02',
               days:[
                 {
