@@ -50,6 +50,7 @@ export class OrganizerComponent {
           nombre:'ADMINISTRACION GENERAL',
           docentes:[
             {
+              id:1,
               name:'VILLARROEL DAZA MARIA HELEN',
               group:'01',
               days:[
@@ -65,6 +66,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:2,
               name:'BADANI LENZ RAFAEL FERNANDO',
               group:'02',
               days:[
@@ -80,6 +82,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:3,
               name:'VILLARROEL DAZA MARIA HELEN',
               group:'03',
               days:[
@@ -95,6 +98,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:4,
               name:'VALDEZ ZEGARRA RAFAEL A.',
               group:'20',
               days:[
@@ -110,6 +114,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:5,
               name:'SANCHEZ CASTELLON JUAN FELIX',
               group:'21',
               days:[
@@ -125,6 +130,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:6,
               name:'VARGAS OROSCO FREDDY',
               group:'22',
               days:[
@@ -140,6 +146,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:7,
               name:'TORRICO OCAMPO ENRIQUE',
               group:'23',
               days:[
@@ -160,6 +167,7 @@ export class OrganizerComponent {
           nombre:'CONTABILIDAD I',
           docentes:[
             {
+              id:8,
               name:'PEREZ AMADOR MARIO',
               group:'01',
               days:[
@@ -175,6 +183,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:9,
               name:'PEREZ AMADOR MARIO',
               group:'02',
               days:[
@@ -190,6 +199,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:10,
               name:'MENDOZA CRESPO JOSE ANTONIO',
               group:'03',
               days:[
@@ -205,6 +215,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:11,
               name:'VILLAZON ARANDIA RICARDO IVAN',
               group:'04',
               days:[
@@ -220,6 +231,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:12,
               name:'MALDONADO ULUNQUE VICTOR HUGO',
               group:'20',
               days:[
@@ -235,6 +247,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:13,
               name:'FERRUFINO JUAREZ JOSE MARCOS',
               group:'21',
               days:[
@@ -250,6 +263,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:14,
               name:'MENDOZA CRESPO JOSE ANTONIO',
               group:'22',
               days:[
@@ -270,6 +284,7 @@ export class OrganizerComponent {
           nombre:'ALGEBRA',
           docentes:[
             {
+              id:15,
               name:'QUISPE CABRERA RENE',
               group:'01',
               days:[
@@ -288,6 +303,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:16,
               name:'COSSIO MC.GALEN LIMBERT PAUL',
               group:'02',
               days:[
@@ -306,6 +322,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:17,
               name:'IRIARTE MERCADO EDGAR ALBERTO',
               group:'04',
               days:[
@@ -324,6 +341,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:18,
               name:'MOYA ALBARRACIN MARTIN',
               group:'05',
               days:[
@@ -342,6 +360,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:19,
               name:'JALDIN QUIROZ RENE',
               group:'20',
               days:[
@@ -360,6 +379,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:20,
               name:'ALBORTA SILES RAUL JOSE',
               group:'22',
               days:[
@@ -375,6 +395,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:21,
               name:'COSSIO MC.GALEN LIMBERT PAUL',
               group:'23',
               days:[
@@ -390,6 +411,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:22,
               name:'QUISPE CABRERA RENE',
               group:'24',
               days:[
@@ -410,6 +432,7 @@ export class OrganizerComponent {
           nombre:'METODOLOGIA DE INVESTIGACION I',
           docentes:[
             {
+              id:23,
               name:'GUZMAN BROCKMANN FELIPE HANS WIGBERTO',
               group:'02',
               days:[
@@ -425,6 +448,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:24,
               name:'CARRILLO FUENTES JUAN ANGEL',
               group:'22',
               days:[
@@ -440,6 +464,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:25,
               name:'ZAMBRANA TRIVENO JOSE EMILIO',
               group:'23',
               days:[
@@ -455,6 +480,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:26,
               name:'GUERRA TORO MARIA ELENA',
               group:'24',
               days:[
@@ -470,6 +496,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:27,
               name:'ZAMBRANA TRIVENO JOSE EMILIO',
               group:'25',
               days:[
@@ -490,6 +517,7 @@ export class OrganizerComponent {
           nombre:'CALCULO',
           docentes:[
             {
+              id:28,
               name:'MORALES ROJAS ARTURO JOSE L.',
               group:'01',
               days:[
@@ -505,6 +533,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:29,
               name:'MONTAÑO ROMERO JOSE',
               group:'02',
               days:[
@@ -520,6 +549,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:30,
               name:'COVARRUBIAS VARGAS CAUJMAN',
               group:'03',
               days:[
@@ -535,6 +565,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:31,
               name:'DUERI MENDEZ MARIA ELENA',
               group:'04',
               days:[
@@ -547,6 +578,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:32,
               name:'DIAZ MONZON EDMUNDO',
               group:'20',
               days:[
@@ -562,6 +594,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:33,
               name:'MONTANO MONTANO JOSE',
               group:'21',
               days:[
@@ -577,6 +610,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:34,
               name:'COVARRUBIAS VARGAS CAUJMAN',
               group:'22',
               days:[
@@ -592,6 +626,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:35,
               name:'MONTAÑO RODRIGUEZ EDGAR ORLANDO',
               group:'23',
               days:[
@@ -607,6 +642,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:36,
               name:'VILLARROEL SOLIZ GROVER',
               group:'24',
               days:[
@@ -622,6 +658,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:37,
               name:'CRESPO FLORES RENE CARLOS',
               group:'25',
               days:[
@@ -644,6 +681,7 @@ export class OrganizerComponent {
           nombre:'TEORIA Y TECNICAS DE LA ORGANIZACION',
           docentes:[
             {
+              id:37,
               name:'VILLARROEL SOLIZ GROVER',
               group:'01',
               days:[
@@ -659,6 +697,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:38,
               name:'DELGADILLO SALAS MAYCOL MARCOS',
               group:'20',
               days:[
@@ -674,6 +713,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:39,
               name:'MENDOZA ARAOZ JAMIL MARCELO',
               group:'21',
               days:[
@@ -689,6 +729,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:39,
               name:'CARDENAS SARAVIA TITO IVAN',
               group:'22',
               days:[
@@ -704,6 +745,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:40,
               name:'CARDENAS SARAVIA TITO IVAN',
               group:'23',
               days:[
@@ -724,6 +766,7 @@ export class OrganizerComponent {
           nombre:'ECONOMIA DE EMPRESAS I',
           docentes:[
             {
+              id:41,
               name:'PANTOJA ROCHA YURI NEWTON',
               group:'01',
               days:[
@@ -739,6 +782,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:42,
               name:'ARAUJO COSSIO ALDO ROMEL',
               group:'20',
               days:[
@@ -754,6 +798,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:43,
               name:'DECKER MARQUEZ JOSE',
               group:'21',
               days:[
@@ -769,6 +814,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:44,
               name:'ZUBIETA FLORIDO FREDDY',
               group:'22',
               days:[
@@ -784,6 +830,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:45,
               name:'LOZADA TORRICO RUDY REMBERTO',
               group:'52',
               days:[
@@ -804,6 +851,7 @@ export class OrganizerComponent {
           nombre:'CONTABILIDAD II',
           docentes:[
             {
+              id:46,
               name:'COCA GONZALES ALBERTO',
               group:'01',
               days:[
@@ -819,6 +867,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:47,
               name:'TORRICO SANCHEZ FELIPE ROBERTO',
               group:'20',
               days:[
@@ -834,6 +883,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:48,
               name:'LOPEZ VALENZUELA JOSE WALTER',
               group:'21',
               days:[
@@ -849,6 +899,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:49,
               name:'MONTAÑO VARGAS OSCAR',
               group:'22',
               days:[
@@ -864,6 +915,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:50,
               name:'MONTAÑO VARGAS OSCAR',
               group:'23',
               days:[
@@ -879,6 +931,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:51,
               name:'QUINTANA ALVAREZ JHONNY',
               group:'24',
               days:[
@@ -899,6 +952,7 @@ export class OrganizerComponent {
           nombre:'ESTADISTICA I',
           docentes:[
             {
+              id:52,
               name:'TABORGA ACHA FIDEL',
               group:'01',
               days:[
@@ -914,6 +968,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:53,
               name:'VALDIVIEZO MALDONADO LINO JUAN CARLOS',
               group:'02',
               days:[
@@ -929,6 +984,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:54,
               name:'SUAZNABAR CLAROS FERNANDO ALBERTO',
               group:'03',
               days:[
@@ -944,6 +1000,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:55,
               name:'MONTANO QUIROGA CLAUDIA CAROLA',
               group:'20',
               days:[
@@ -959,6 +1016,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:56,
               name:'BUSTAMANTE MALDONADO FERNANDO',
               group:'21',
               days:[
@@ -979,6 +1037,7 @@ export class OrganizerComponent {
           nombre:'SOCIOLOGIA ORGANIZACIONAL',
           docentes:[
             {
+              id:57,
               name:'POZO VALLEJOS MARIA ESTHER',
               group:'01',
               days:[
@@ -994,6 +1053,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:58,
               name:'ANTEZANA LA FUENTE JORGE CARLOS',
               group:'20',
               days:[
@@ -1009,6 +1069,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:59,
               name:'POZO VALLEJOS MARIA ESTHER',
               group:'21',
               days:[
@@ -1024,6 +1085,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:60,
               name:'ZAMBRANA TRIVENO JOSE EMILIO',
               group:'22',
               days:[
@@ -1049,6 +1111,7 @@ export class OrganizerComponent {
           nombre:'SISTEMAS ADMINISTRATIVOS',
           docentes:[
             {
+              id:61,
               name:'ROCHA CHAVEZ LILIAN MARCELA',
               group:'01',
               days:[
@@ -1064,6 +1127,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:62,
               name:'LOPEZ GUMUCIO RICARDO',
               group:'02',
               days:[
@@ -1079,6 +1143,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:63,
               name:'GUZMAN DURAN GONZALO',
               group:'03',
               days:[
@@ -1094,6 +1159,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:64,
               name:'BADANI LENZ RAFAEL FERNANDO',
               group:'04',
               days:[
@@ -1114,6 +1180,7 @@ export class OrganizerComponent {
           nombre:'ECONOMIA DE EMPRESAS II',
           docentes:[
             {
+              id:65,
               name:'DECKER MARQUEZ JOSE',
               group:'01',
               days:[
@@ -1129,6 +1196,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:66,
               name:'VILLAZON DEL CARPIO OSMAN ERICK',
               group:'20',
               days:[
@@ -1144,6 +1212,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:67,
               name:'ROJAS VALVERDE GRISELDA ROSIO',
               group:'21',
               days:[
@@ -1159,6 +1228,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:68,
               name:'ROJAS VALVERDE GRISELDA ROSIO',
               group:'22',
               days:[
@@ -1174,6 +1244,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:69,
               name:'ZUBIETA FLORIDO FREDDY',
               group:'23',
               days:[
@@ -1194,6 +1265,7 @@ export class OrganizerComponent {
           nombre:'TEORIA DE COSTOS',
           docentes:[
             {
+              id:70,
               name:'LEDEZMA BELTRAN GUSTAVO',
               group:'01',
               days:[
@@ -1212,6 +1284,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:71,
               name:'CAMACHO PRADO OMAR ALEJANDRO',
               group:'20',
               days:[
@@ -1230,6 +1303,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:72,
               name:'LEDEZMA BELTRAN GUSTAVO',
               group:'21',
               days:[
@@ -1248,6 +1322,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:73,
               name:'CAMACHO PRADO OMAR ALEJANDRO',
               group:'22',
               days:[
@@ -1266,6 +1341,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:74,
               name:'MORALES GUZMAN CESAR',
               group:'23',
               days:[
@@ -1286,6 +1362,7 @@ export class OrganizerComponent {
           nombre:'ESTADISTICA II',
           docentes:[
             {
+              id:75,
               name:'MANSILLA HEREDIA ALFREDO EDUARDO',
               group:'01',
               days:[
@@ -1301,6 +1378,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:76,
               name:'MONTANO MONTANO JOSE',
               group:'02',
               days:[
@@ -1316,6 +1394,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:77,
               name:'URQUIDI BELLIDO SONIA',
               group:'07',
               days:[
@@ -1331,6 +1410,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:78,
               name:'JALDIN QUIROZ RENE',
               group:'20',
               days:[
@@ -1346,6 +1426,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:79,
               name:'CONDORI ARIAS HERMOGENES',
               group:'21',
               days:[
@@ -1361,6 +1442,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:80,
               name:'JALDIN QUIROZ RENE',
               group:'22',
               days:[
@@ -1376,6 +1458,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:81,
               name:'URQUIDI BELLIDO SONIA',
               group:'27',
               days:[
@@ -1396,6 +1479,7 @@ export class OrganizerComponent {
           nombre:'MACROECONOMIA',
           docentes:[
             {
+              id:82,
               name:'TORRES ARANDIA WILLIAM',
               group:'01',
               days:[
@@ -1411,6 +1495,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:83,
               name:'ROMERO PADILLA CESAR',
               group:'02',
               days:[
@@ -1426,6 +1511,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:84,
               name:'VILLAZON DEL CARPIO OSMAN ERICK',
               group:'20',
               days:[
@@ -1441,6 +1527,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:85,
               name:'CONDORI ARIAS HERMOGENES',
               group:'21',
               days:[
@@ -1456,6 +1543,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:86,
               name:'POR DESIGNAR DOCENTE',
               group:'22',
               days:[
@@ -1471,6 +1559,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:87,
               name:'ESCALERA MELGAR ALBERTO',
               group:'23',
               days:[
@@ -1486,6 +1575,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:88,
               name:'ZUBIETA FLORIDO FREDDY',
               group:'27',
               days:[
@@ -1509,6 +1599,7 @@ export class OrganizerComponent {
           nombre:'PROCEDIMIENTOS ADMINISTRATIVOS',
           docentes:[
             {
+              id:89,
               name:'LOPEZ GUMUCIO RICARDO',
               group:'01',
               days:[
@@ -1524,6 +1615,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:90,
               name:'GUZMAN DURAN GONZALO',
               group:'02',
               days:[
@@ -1539,6 +1631,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:91,
               name:'CARDENAS SARAVIA TITO IVAN',
               group:'21',
               days:[
@@ -1559,6 +1652,7 @@ export class OrganizerComponent {
           nombre:'PRESUPUESTOS',
           docentes:[
             {
+              id:92,
               name:'MARTINEZ ALPIRI ANAHI MONICA',
               group:'01',
               days:[
@@ -1574,6 +1668,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:93,
               name:'CACERES MONTERO JAIME',
               group:'02',
               days:[
@@ -1589,6 +1684,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:94,
               name:'TORRICO LARA ALEX',
               group:'20',
               days:[
@@ -1604,6 +1700,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:95,
               name:'CACERES MONTERO JAIME',
               group:'21',
               days:[
@@ -1624,6 +1721,7 @@ export class OrganizerComponent {
           nombre:'INFORMATICA I',
           docentes:[
             {
+              id:96,
               name:'MONTANO QUIROGA VICTOR HUGO', group:'01', days:[
                 {
                   day:'Lunes', start:'08:15', end:'09:45', classRoom:'E 401'
@@ -1637,6 +1735,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:97,
               name:'VELARDE POMA JUAN CARLOS', group:'02', days:[
                 {
                   day:'Martes', start:'06:45', end:'08:15', classRoom:'E548'
@@ -1650,6 +1749,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:98,
               name:'SANDOVAL ARNEZ JUAN ALBERTO', group:'20', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E547'
@@ -1663,6 +1763,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:99,
               name:'TORRICO OCAMPO ENRIQUE', group:'21', days:[
                 {
                   day:'Lunes', start:'12:45', end:'14:15', classRoom:'E 402'
@@ -1676,6 +1777,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:100,
               name:'CAMACHO DEL CASTILLO INDIRA', group:'22', days:[
                 {
                   day:'Martes', start:'11:15', end:'12:45', classRoom:'E 406'
@@ -1689,6 +1791,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:101,
               name:'JORDAN SANCHEZ JUAN CARLOS', group:'23', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E 407'
@@ -1707,6 +1810,7 @@ export class OrganizerComponent {
           nombre:'COSTOS PARA LA TOMA DE DECISIONES',
           docentes:[
             {
+              id:102,
               name:'RIVERA MICHEL HENRY', group:'01', days:[
                 {
                   day:'Miércoles', start:'12:45', end:'14:15', classRoom:'E PB-2'
@@ -1720,6 +1824,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:103,
               name:'CHOQUEPALPA RIOZ ORLANDO DANIEL', group:'02', days:[
                 {
                   day:'Jueves', start:'08:15', end:'09:45', classRoom:'E504'
@@ -1733,6 +1838,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:104,
               name:'RIVERA MICHEL HENRY', group:'03', days:[
                 {
                   day:'Lunes', start:'15:45', end:'17:15', classRoom:'E503', auxiliary:true
@@ -1746,6 +1852,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:105,
               name:'RIVERA MICHEL HENRY', group:'20', days:[
                 {
                   day:'Martes', start:'17:15', end:'18:45', classRoom:'E 408'
@@ -1759,6 +1866,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:106,
               name:'CHOQUEPALPA RIOZ ORLANDO DANIEL', group:'02', days:[
                 {
                   day:'Jueves', start:'06:45', end:'08:15', classRoom:'E109'
@@ -1772,6 +1880,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:107,
               name:'RIVERA MICHEL HENRY', group:'22', days:[
                 {
                   day:'Martes', start:'18:45', end:'20:15', classRoom:'E530'
@@ -1790,6 +1899,7 @@ export class OrganizerComponent {
           nombre:'ANALISIS DE ESTADOS FINANCIEROS',
           docentes:[
             {
+              id:108,
               name:'PRADEL SERRANO RUTH ISABEL', group:'01', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E520'
@@ -1803,6 +1913,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:109,
               name:'COCA GONZALES ALBERTO', group:'02', days:[
                 {
                   day:'Martes', start:'06:45', end:'08:15', classRoom:'E 209'
@@ -1816,6 +1927,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:110,
               name:'MONTAÑO VARGAS OSCAR', group:'03', days:[
                 {
                   day:'Martes', start:'18:45', end:'20:15', classRoom:'E 109'
@@ -1829,6 +1941,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:111,
               name:'LOPEZ LOPEZ JAIME', group:'20', days:[
                 {
                   day:'Miércoles', start:'18:45', end:'20:15', classRoom:'E503'
@@ -1842,6 +1955,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:112,
               name:'MONTAÑO VARGAS OSCAR', group:'21', days:[
                 {
                   day:'Martes', start:'06:45', end:'08:15', classRoom:'E520'
@@ -1865,6 +1979,7 @@ export class OrganizerComponent {
           nombre:'INGLES I',
           docentes:[
             {
+              id:113,
               name:'PARDO FERNANDEZ JULIO FRANCO', group:'08', days:[
                 {
                   day:'Lunes', start:'09:45', end:'11:15', classRoom:'E 108'
@@ -1878,6 +1993,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:114,
               name:'VALLEJO ECHEVERRIA JULIAN', group:'A1', days:[
                 {
                   day:'Lunes', start:'08:15', end:'09:45', classRoom:'E 306'
@@ -1896,6 +2012,7 @@ export class OrganizerComponent {
           nombre:'METODOLOGIA DE INVESTIGACION II',
           docentes:[
             {
+              id:115,
               name:'VALLEJO BELTRAN ENZO MAURICIO', group:'01', days:[
                 {
                   day:'Martes', start:'11:15', end:'12:45', classRoom:'E506'
@@ -1909,6 +2026,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:116,
               name:'SEVILLA CESPEDES CLAUDIA', group:'20', days:[
                 {
                   day:'Lunes', start:'11:15', end:'12:45', classRoom:'E503'
@@ -1922,6 +2040,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:117,
               name:'ZAMBRANA TRIVENO JOSE EMILIO', group:'21', days:[
                 {
                   day:'Martes', start:'11:15', end:'12:45', classRoom:'E504'
@@ -1935,6 +2054,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:118,
               name:'MANZANO ANZALDO NELSON TITO', group:'22', days:[
                 {
                   day:'Lunes', start:'17:15', end:'18:45', classRoom:'E 108'
@@ -1953,6 +2073,7 @@ export class OrganizerComponent {
           nombre:'INFORMATICA II',
           docentes:[
             {
+              id:119,
               name:'GUEVARA ESPINOZA JORGE', group:'01', days:[
                 {
                   day:'Lunes', start:'06:45', end:'08:15', classRoom:'E 406'
@@ -1966,6 +2087,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:200,
               name:'RODRIGUEZ MARTINEZ EDUARDO', group:'02', days:[
                 {
                   day:'Martes', start:'20:15', end:'21:45', classRoom:'E 401'
@@ -1979,6 +2101,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:201,
               name:'COVARRUBIAS VARGAS CAUJMAN', group:'03', days:[
                 {
                   day:'Martes', start:'12:45', end:'14:15', classRoom:'E 401'
@@ -1992,6 +2115,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:202,
               name:'AVILA MAMANI HECTOR JOSE', group:'20', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E 401'
@@ -2010,6 +2134,7 @@ export class OrganizerComponent {
           nombre:'LEGISLACION LABORAL',
           docentes:[
             {
+              id:203,
               name:'MUÑOZ CRESPO ALBERTO DANIEL', group:'01', days:[
                 {
                   day:'Martes', start:'08:15', end:'09:45', classRoom:'E 202'
@@ -2023,6 +2148,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:204,
               name:'MUÑOZ CRESPO ALBERTO DANIEL', group:'02', days:[
                 {
                   day:'Martes', start:'11:15', end:'12:45', classRoom:'E 102'
@@ -2036,6 +2162,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:205,
               name:'AMURRIO MARQUEZ MARY', group:'20', days:[
                 {
                   day:'Miércoles', start:'06:45', end:'08:15', classRoom:'E502'
@@ -2054,6 +2181,7 @@ export class OrganizerComponent {
           nombre:'PSICOLOGIA ORGANIZACIONAL',
           docentes:[
             {
+              id:206,
               name:'PARDO FERNANDEZ JULIO FRANCO', group:'20', days:[
                 {
                   day:'Lunes', start:'17:15', end:'18:45', classRoom:'E 109'
@@ -2067,6 +2195,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:207,
               name:'VILDOZO ZAMORANO WALTER FERNANDO', group:'21', days:[
                 {
                   day:'Lunes', start:'08:15', end:'09:45', classRoom:'E 104'
@@ -2080,6 +2209,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:208,
               name:'VILLAZON ARANDIA RICARDO IVAN', group:'22', days:[
                 {
                   day:'Martes', start:'20:15', end:'21:45', classRoom:'E546'
@@ -2093,6 +2223,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:209,
               name:'RODRIGUEZ HURTADO JOSE LUIS', group:'23', days:[
                 {
                   day:'Martes', start:'17:15', end:'18:45', classRoom:'E 404'
@@ -2111,6 +2242,7 @@ export class OrganizerComponent {
           nombre:'ADMINISTRACION PUBLICA',
           docentes:[
             {
+              id:210,
               name:'ESPADA FLORES JUAN RAMIRO', group:'01', days:[
                 {
                   day:'Martes', start:'12:45', end:'14:15', classRoom:'E523'
@@ -2124,6 +2256,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:211,
               name:'RODRIGUEZ MARTINEZ EDUARDO', group:'02', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E524'
@@ -2137,6 +2270,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:212,
               name:'POR DESIGNAR DOCENTE', group:'20', days:[
                 {
                   day:'Miércoles', start:'18:45', end:'20:15', classRoom:'E 209'
@@ -2150,6 +2284,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:213,
               name:'PANTOJA ROCHA YURI NEWTON', group:'21', days:[
                 {
                   day:'Miércoles', start:'06:45', end:'08:15', classRoom:'E 204'
@@ -2163,6 +2298,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:214,
               name:'AYALA MENDOZA AMILCAR', group:'22', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E 302'
@@ -2186,6 +2322,7 @@ export class OrganizerComponent {
           nombre:'INGLES II',
           docentes:[
             {
+              id:215,
               name:'PARDO FERNANDEZ JULIO FRANCO', group:'07', days:[
                 {
                   day:'Lunes', start:'08:15', end:'09:45', classRoom:'E 209'
@@ -2199,6 +2336,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:216,
               name:'VALLEJO ECHEVERRIA JULIAN', group:'B1', days:[
                 {
                   day:'Lunes', start:'11:15', end:'12:45', classRoom:'E 109'
@@ -2217,6 +2355,7 @@ export class OrganizerComponent {
           nombre:'PRODUCCION I',
           docentes:[
             {
+              id:217,
               name:'CALLA VILLEGAS EDWIN', group:'01', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E517'
@@ -2227,6 +2366,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:218,
               name:'CALLA VILLEGAS EDWIN', group:'02', days:[
                 {
                   day:'Lunes', start:'17:15', end:'18:45', classRoom:'E506'
@@ -2237,6 +2377,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:219,
               name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'03', days:[
                 {
                   day:'Lunes', start:'08:15', end:'09:45', classRoom:'E502'
@@ -2247,6 +2388,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:220,
               name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'20', days:[
                 {
                   day:'Lunes', start:'11:15', end:'12:45', classRoom:'E 103'
@@ -2262,6 +2404,7 @@ export class OrganizerComponent {
           nombre:'FINANZAS I',
           docentes:[
             {
+              id:221,
               name:'LEYTON GUTIERREZ SONIA', group:'01', days:[
                 {
                   day:'Lunes', start:'11:15', end:'12:45', classRoom:'E523'
@@ -2275,6 +2418,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:222,
               name:'AGREDA MONTANO GUIDO', group:'20', days:[
                 {
                   day:'Lunes', start:'09:45', end:'11:15', classRoom:'E521'
@@ -2288,6 +2432,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id:223,
               name:'SUAZNABAR CLAROS FERNANDO ALBERTO', group:'21', days:[
                 {
                   day:'Martes', start:'17:15', end:'18:45', classRoom:'E545'
@@ -2306,7 +2451,7 @@ export class OrganizerComponent {
           nombre:'INVESTIGACION OPERATIVA',
           docentes:[
             {
-              id:1, name:'VILLAGOMEZ VILLARROEL CESAR', group:'01', days:[
+              id:224, name:'VILLAGOMEZ VILLARROEL CESAR', group:'01', days:[
                 {
                   day:'Miércoles', start:'17:15', end:'18:45', classRoom:'E542'
                 },
@@ -2319,7 +2464,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:2, name:'VALDEZ ESCOBAR JORGE ALBERTO', group:'20', days:[
+              id:225, name:'VALDEZ ESCOBAR JORGE ALBERTO', group:'20', days:[
                 {
                   day:'Lunes', start:'09:45', end:'11:15', classRoom:'E 404'
                 },
@@ -2332,7 +2477,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:3, name:'VALDEZ ESCOBAR JORGE ALBERTO', group:'21', days:[
+              id:226, name:'VALDEZ ESCOBAR JORGE ALBERTO', group:'21', days:[
                 {
                   day:'Lunes', start:'11:15', end:'12:45', classRoom:'E 404'
                 },
@@ -2345,7 +2490,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:4, name:'VILLAGOMEZ VILLARROEL CESAR', group:'22', days:[
+              id:227, name:'VILLAGOMEZ VILLARROEL CESAR', group:'22', days:[
                 {
                   day:'Martes', start:'20:15', end:'21:45', classRoom:'E544'
                 },
@@ -2363,7 +2508,7 @@ export class OrganizerComponent {
           nombre:'MERCADOTECNIA I',
           docentes:[
             {
-              id:1, name:'CALLA VILLEGAS EDWIN', group:'01', days:[
+              id:228, name:'CALLA VILLEGAS EDWIN', group:'01', days:[
                 {
                   day:'Martes', start:'15:45', end:'17:15', classRoom:'E 109'
                 },
@@ -2376,7 +2521,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:2, name:'ZEGARRA SALDANA PABLO', group:'20', days:[
+              id:229, name:'ZEGARRA SALDANA PABLO', group:'20', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E 205'
                 },
@@ -2389,7 +2534,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:3, name:'NAVIA QUIROGA GUSTAVO', group:'21', days:[
+              id:330, name:'NAVIA QUIROGA GUSTAVO', group:'21', days:[
                 {
                   day:'Martes', start:'20:15', end:'21:45', classRoom:'E PB-4'
                 },
@@ -2407,7 +2552,7 @@ export class OrganizerComponent {
           nombre:'PERSONAL I',
           docentes:[
             {
-              id:2, name:'BADANI LENZ RAFAEL FERNANDO', group:'01', days:[
+              id:331, name:'BADANI LENZ RAFAEL FERNANDO', group:'01', days:[
                 {
                   day:'Martes', start:'18:45', end:'20:15', classRoom:'E503'
                 },
@@ -2420,7 +2565,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:4, name:'GUZMAN BROCKMANN FELIPE HANS WIGBERTO', group:'02', days:[
+              id:332, name:'GUZMAN BROCKMANN FELIPE HANS WIGBERTO', group:'02', days:[
                 {
                   day:'Lunes', start:'06:45', end:'08:15', classRoom:'E504'
                 },
@@ -2433,7 +2578,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:5, name:'BADANI LENZ RAFAEL FERNANDO', group:'20', days:[
+              id:333, name:'BADANI LENZ RAFAEL FERNANDO', group:'20', days:[
                 {
                   day:'Martes', start:'12:45', end:'14:15', classRoom:'E PB-4'
                 },
@@ -2446,7 +2591,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:6, name:'CRESPO FLORES RENE CARLOS', group:'21', days:[
+              id:334, name:'CRESPO FLORES RENE CARLOS', group:'21', days:[
                 {
                   day:'Lunes', start:'15:45', end:'17:15', classRoom:'E524'
                 },
@@ -2467,7 +2612,7 @@ export class OrganizerComponent {
               nombre:'PRODUCCION II',
               docentes:[
                 {
-                  id:1, name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'01', days:[
+                  id:335, name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'01', days:[
                     {
                       day:'Lunes', start:'09:45', end:'11:15', classRoom:'E502'
                     },
@@ -2479,7 +2624,7 @@ export class OrganizerComponent {
                     }
                   ]
                 },{
-                  id:1, name:'VALDIVIEZO MALDONADO LINO JUAN CARLOS', group:'02', days:[
+                  id:336, name:'VALDIVIEZO MALDONADO LINO JUAN CARLOS', group:'02', days:[
                     {
                       day:'Lunes', start:'06:45', end:'08:15', classRoom:'E 207'
                     },
@@ -2491,7 +2636,7 @@ export class OrganizerComponent {
                     }
                   ]
                 }, {
-                  id:1, name:'CALLA VILLEGAS EDWIN', group:'20', days:[
+                  id:337, name:'CALLA VILLEGAS EDWIN', group:'20', days:[
                     {
                       day:'Martes', start:'14:15', end:'15:45', classRoom:'E 109'
                     },
@@ -2510,7 +2655,7 @@ export class OrganizerComponent {
               docentes:[
 
                 {
-                  id:2, name:'NAVIA QUIROGA GUSTAVO', group:'02', days:[
+                  id:338, name:'NAVIA QUIROGA GUSTAVO', group:'02', days:[
                     {
                       day:'Lunes', start:'17:15', end:'18:45', classRoom:'E502'
                     },
@@ -2523,7 +2668,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:3, name:'AYMA SOTO FELIX MARCELO', group:'20', days:[
+                  id:339, name:'AYMA SOTO FELIX MARCELO', group:'20', days:[
                     {
                       day:'Miércoles', start:'20:15', end:'21:45', classRoom:'E545'
                     },
@@ -2541,7 +2686,7 @@ export class OrganizerComponent {
               nombre:'GERENCIA OPERATIVA',
               docentes:[
                 {
-                  id:1, name:'VARGAS ANTEZANA ADEMAR MARCELO', group:'01', days:[
+                  id:340, name:'VARGAS ANTEZANA ADEMAR MARCELO', group:'01', days:[
                     {
                       day:'Martes', start:'14:15', end:'15:45', classRoom:'E PB-4'
                     },
@@ -2554,7 +2699,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:2, name:'MOSCOSO FORONDA DAVID', group:'20', days:[
+                  id:341, name:'MOSCOSO FORONDA DAVID', group:'20', days:[
                     {
                       day:'Martes', start:'17:15', end:'18:45', classRoom:'E 209'
                     },
@@ -2567,7 +2712,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:3, name:'MOSCOSO FORONDA DAVID', group:'21', days:[
+                  id:342, name:'MOSCOSO FORONDA DAVID', group:'21', days:[
                     {
                       day:'Martes', start:'20:15', end:'21:45', classRoom:'E 307'
                     },
@@ -2580,7 +2725,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:4, name:'MOSCOSO FORONDA DAVID', group:'22', days:[
+                  id:343, name:'MOSCOSO FORONDA DAVID', group:'22', days:[
                     {
                       day:'Martes', start:'18:45', end:'20:15', classRoom:'E 309'
                     },
@@ -2598,7 +2743,7 @@ export class OrganizerComponent {
               nombre:'MERCADOTECNIA III',
               docentes:[
                 {
-                  id:1, name:'ZEGARRA SALDANA PABLO', group:'20', days:[
+                  id:344, name:'ZEGARRA SALDANA PABLO', group:'20', days:[
                     {
                       day:'Lunes', start:'18:45', end:'20:15', classRoom:'E521'
                     },
@@ -2611,7 +2756,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:1, name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'21', days:[
+                  id:345, name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'21', days:[
                     {
                       day:'Lunes', start:'06:45', end:'08:15', classRoom:'E 307'
                     },
@@ -2629,7 +2774,7 @@ export class OrganizerComponent {
               nombre:'MERCADOTECNIA V',
               docentes:[
                 {
-                  id:2, name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'01', days:[
+                  id:346, name:'ZAPATA BARRIENTOS JOSE RAMIRO', group:'01', days:[
                     {
                       day:'Lunes', start:'14:15', end:'15:45', classRoom:'E502'
                     },
@@ -2647,7 +2792,7 @@ export class OrganizerComponent {
               nombre:'FINANZAS II',
               docentes:[
                 {
-                  id:1, name:'AGREDA MONTANO GUIDO', group:'20', days:[
+                  id:347, name:'AGREDA MONTANO GUIDO', group:'20', days:[
                     {
                       day:'Lunes', start:'08:15', end:'09:45', classRoom:'E521'
                     },
@@ -2665,7 +2810,7 @@ export class OrganizerComponent {
               nombre:'ADMINISTRACION DE COOPERATIVAS',
               docentes:[
                 {
-                  id:1, name:'AGREDA MONTANO GUIDO', group:'20', days:[
+                  id:348, name:'AGREDA MONTANO GUIDO', group:'20', days:[
                     {
                       day:'Lunes', start:'15:45', end:'17:15', classRoom:'E521'
                     },
@@ -2683,7 +2828,7 @@ export class OrganizerComponent {
               nombre:'PERSONAL II',
               docentes:[
                 {
-                  id:1, name:'MENDOZA ARAOZ JAMIL MARCELO', group:'01', days:[
+                  id:349, name:'MENDOZA ARAOZ JAMIL MARCELO', group:'01', days:[
                     {
                       day:'Martes', start:'18:45', end:'20:15', classRoom:'E521'
                     },
@@ -2696,7 +2841,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:2, name:'RAMIREZ MOLINA GONZALO', group:'20', days:[
+                  id:350, name:'RAMIREZ MOLINA GONZALO', group:'20', days:[
                     {
                       day:'Lunes', start:'17:15', end:'18:45', classRoom:'E 206'
                     },
@@ -2709,7 +2854,7 @@ export class OrganizerComponent {
                   ]
                 },
                 {
-                  id:3, name:'MENDOZA ARAOZ JAMIL MARCELO', group:'21', days:[
+                  id:351, name:'MENDOZA ARAOZ JAMIL MARCELO', group:'21', days:[
                     {
                       day:'Martes', start:'17:15', end:'18:45', classRoom:'E 110'
                     },
@@ -2727,7 +2872,7 @@ export class OrganizerComponent {
               nombre:'PERSONAL III',
               docentes:[
                 {
-                  id:1, name:'VALDEZ ZEGARRA RAFAEL A.', group:'01', days:[
+                  id:352, name:'VALDEZ ZEGARRA RAFAEL A.', group:'01', days:[
                     {
                       day:'Lunes', start:'20:15', end:'21:45', classRoom:'E 202'
                     },
@@ -2749,7 +2894,7 @@ export class OrganizerComponent {
           nombre:'POLITICA EMPRESARIAL',
           docentes:[
             {
-              id:1, name:'CAMACHO GUZMAN FRANCO ARTURO', group:'01', days:[
+              id:353, name:'CAMACHO GUZMAN FRANCO ARTURO', group:'01', days:[
                 {
                   day:'Martes', start:'09:45', end:'11:15', classRoom:'E 309'
                 },
@@ -2762,7 +2907,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:2, name:'GUTIERREZ OVANDO ISELA', group:'02', days:[
+              id:354, name:'GUTIERREZ OVANDO ISELA', group:'02', days:[
                 {
                   day:'Martes', start:'15:45', end:'17:15', classRoom:'E542'
                 },
@@ -2775,7 +2920,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:3, name:'RODRIGUEZ HURTADO JOSE LUIS', group:'20', days:[
+              id:355, name:'RODRIGUEZ HURTADO JOSE LUIS', group:'20', days:[
                 {
                   day:'Martes', start:'09:45', end:'11:15', classRoom:'E 204'
                 },
@@ -2793,7 +2938,7 @@ export class OrganizerComponent {
           nombre:'PREPARACION Y EVALUACION DE PROYECTOS',
           docentes:[
             {
-              id:1, name:'OLIVERA TAPIA JUAN CARLOS', group:'01', days:[
+              id:356, name:'OLIVERA TAPIA JUAN CARLOS', group:'01', days:[
                 {
                   day:'Lunes', start:'08:15', end:'09:45', classRoom:'E 204'
                 },
@@ -2806,7 +2951,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:2, name:'CHAVEZ MARCELA MABEL', group:'20', days:[
+              id:357, name:'CHAVEZ MARCELA MABEL', group:'20', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E 203'
                 },
@@ -2819,7 +2964,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:3, name:'CHAVEZ MARCELA MABEL', group:'21', days:[
+              id:358, name:'CHAVEZ MARCELA MABEL', group:'21', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E 203'
                 },
@@ -2837,7 +2982,7 @@ export class OrganizerComponent {
           nombre:'TALLER I',
           docentes:[
             {
-              id: 1, name: 'VILDOZO ZAMORANO WALTER FERNANDO', group: '01', days: [
+              id: 359, name: 'VILDOZO ZAMORANO WALTER FERNANDO', group: '01', days: [
                 {
                   day: 'Lunes', start: '09:45', end: '11:15', classRoom: 'E 106'
                 },
@@ -2850,6 +2995,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 360,
               name: "RODRIGUEZ HURTADO JOSE LUIS",
               group: "03",
               days: [
@@ -2859,6 +3005,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 361,
               name: "LOPEZ GUMUCIO RICARDO",
               group: "22",
               days: [
@@ -2868,6 +3015,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 362,
               name: "VALDIVIEZO MALDONADO LINO JUAN CARLOS",
               group: "23",
               days: [
@@ -2882,7 +3030,7 @@ export class OrganizerComponent {
           nombre:'MERCADOTECNIA VI',
           docentes:[
             {
-              id:1, name:'LOZADA TORRICO RUDY REMBERTO', group:'01', days:[
+              id:363, name:'LOZADA TORRICO RUDY REMBERTO', group:'01', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E501'
                 },
@@ -2895,7 +3043,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:2, name:'MEDRANO CLAURE DANNY OSCAR', group:'02', days:[
+              id:364, name:'MEDRANO CLAURE DANNY OSCAR', group:'02', days:[
                 {
                   day:'Lunes', start:'09:45', end:'11:15', classRoom:'E 203'
                 },
@@ -2913,7 +3061,7 @@ export class OrganizerComponent {
           nombre:'MERCADOTECNIA VII',
           docentes:[
             {
-              id:1, name:'MENDOZA ARAOZ JAMIL MARCELO', group:'01', days:[
+              id:365, name:'MENDOZA ARAOZ JAMIL MARCELO', group:'01', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E 101'
                 },
@@ -2931,7 +3079,7 @@ export class OrganizerComponent {
           nombre:'FINANZAS IV',
           docentes:[
             {
-              id:1, name:'VALLEJO RUIZ JAVIER', group:'01', days:[
+              id:366, name:'VALLEJO RUIZ JAVIER', group:'01', days:[
                 {
                   day:'Lunes', start:'20:15', end:'21:45', classRoom:'E503'
                 },
@@ -2944,7 +3092,7 @@ export class OrganizerComponent {
               ]
             },
             {
-              id:2, name:'RODRIGUEZ MARTINEZ EDUARDO', group:'20', days:[
+              id:367, name:'RODRIGUEZ MARTINEZ EDUARDO', group:'20', days:[
                 {
                   day:'Martes', start:'18:45', end:'20:15', classRoom:'E 203'
                 },
@@ -2962,7 +3110,7 @@ export class OrganizerComponent {
           nombre:'FINANZAS V',
           docentes:[
             {
-              id:1, name:'RODRIGUEZ MARTINEZ EDUARDO', group:'01', days:[
+              id:368, name:'RODRIGUEZ MARTINEZ EDUARDO', group:'01', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E522'
                 },
@@ -2980,7 +3128,7 @@ export class OrganizerComponent {
           nombre:'PERSONAL IV',
           docentes:[
             {
-              id:1, name:'GUZMAN BROCKMANN FELIPE HANS WIGBERTO', group:'20', days:[
+              id:369, name:'GUZMAN BROCKMANN FELIPE HANS WIGBERTO', group:'20', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E 202'
                 },
@@ -2998,7 +3146,7 @@ export class OrganizerComponent {
           nombre:'PERSONAL V',
           docentes:[
             {
-              id:1, name:'RAMIREZ MOLINA GONZALO', group:'20', days:[
+              id:370, name:'RAMIREZ MOLINA GONZALO', group:'20', days:[
                 {
                   day:'Lunes', start:'18:45', end:'20:15', classRoom:'E 109'
                 },
@@ -3020,6 +3168,7 @@ export class OrganizerComponent {
           nombre:'ADMINISTRACION DE PROYECTOS',
           docentes:[
             {
+              id: 371,
               name:'SEJAS CHOQUE JUAN CARLOS',
               group:'01',
               days:[
@@ -3035,6 +3184,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 372,
               name:'FERRUFINO GARCIA ALEXANDER',
               group:'02',
               days:[
@@ -3050,6 +3200,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 373,
               name:'PARDO FERNANDEZ JULIO FRANCO',
               group:'20',
               days:[
@@ -3070,6 +3221,7 @@ export class OrganizerComponent {
           nombre:'LEGISLACION EMPRESARIAL',
           docentes:[
             {
+              id: 374,
               name:'JIMENEZ PINTO EDWIN',
               group:'01',
               days:[
@@ -3085,6 +3237,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 375,
               name:'JIMENEZ PINTO EDWIN',
               group:'02',
               days:[
@@ -3100,6 +3253,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 376,
               name:'AYALA MENDOZA AMILCAR',
               group:'03',
               days:[
@@ -3115,6 +3269,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 377,
               name:'QUIROZ GOMEZ CARMEN RITA',
               group:'04',
               days:[
@@ -3135,6 +3290,7 @@ export class OrganizerComponent {
           nombre:'TALLER II',
           docentes:[
             {
+              id: 378,
               name:"TORRES ARANDIA WILLIAM",
               group:"F1",
               days:[
@@ -3144,6 +3300,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 379,
               name:"RAMIREZ MOLINA GONZALO",
               group:"F3",
               days:[
@@ -3153,6 +3310,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 380,
               name:"VALDIVIEZO MALDONADO LINO JUAN CARLOS",
               group:"F4",
               days:[
@@ -3162,6 +3320,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 381,
               name:"VARGAS OROSCO FREDDY",
               group:"F5",
               days:[
@@ -3171,6 +3330,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 382,
               name:"AYMA SOTO FELIX MARCELO",
               group:"M1",
               days:[
@@ -3180,6 +3340,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 383,
               name:"VILLAZON ARANDIA RICARDO IVAN",
               group:"M2",
               days:[
@@ -3189,6 +3350,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 384,
               name:"POZO VALLEJOS MARIA ESTHER",
               group:"M3",
               days:[
@@ -3198,6 +3360,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 385,
               name:"MOSCOSO FORONDA DAVID",
               group:"M4",
               days:[
@@ -3207,6 +3370,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 386,
               name:"CARDENAS SARAVIA TITO IVAN",
               group:"M5",
               days:[
@@ -3216,6 +3380,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 387,
               name:"RAMIREZ MOLINA GONZALO",
               group:"M7",
               days:[
@@ -3225,6 +3390,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 388,
               name:"VILLAZON DEL CARPIO OSMAN ERICK",
               group:"M8",
               days:[
@@ -3234,6 +3400,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 389,
               name:"VALDEZ ZEGARRA RAFAEL A.",
               group:"R1",
               days:[
@@ -3243,6 +3410,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 390,
               name:"BURGOS MEDINA CARLOS ALBERTO",
               group:"R4",
               days:[
@@ -3252,6 +3420,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 391,
               name:"ZEGARRA SALDANA PABLO",
               group:"R5",
               days:[
@@ -3267,6 +3436,7 @@ export class OrganizerComponent {
           nombre:'MERCADOTECNIA IV',
           docentes:[
             {
+              id: 392,
               name:'NAVIA QUIROGA GUSTAVO',
               group:'01',
               days:[
@@ -3282,6 +3452,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 393,
               name:'NAVIA QUIROGA GUSTAVO',
               group:'20',
               days:[
@@ -3297,6 +3468,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 394,
               name:'IRIARTE DE LA FUENTE MARCELA',
               group:'21',
               days:[
@@ -3317,6 +3489,7 @@ export class OrganizerComponent {
           nombre:'FINANZAS VI',
           docentes:[
             {
+              id: 395,
               name:'VALLEJO RUIZ JAVIER',
               group:'20',
               days:[
@@ -3337,6 +3510,7 @@ export class OrganizerComponent {
           nombre:'PERSONAL VI',
           docentes:[
             {
+              id: 396,
               name:'BADANI LENZ RAFAEL FERNANDO',
               group:'20',
               days:[
@@ -3357,6 +3531,7 @@ export class OrganizerComponent {
           nombre:'PRACTICA EMPRESARIAL',
           docentes:[
             {
+              id: 397,
               name:'VILDOZO ZAMORANO WALTER FERNANDO',
               group:'20',
               days:[
@@ -3381,6 +3556,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 398,
               name:"CHAVEZ MARCELA MABEL",
               group:22,
               days:[
@@ -3390,6 +3566,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 399,
               name:"MALDONADO ROJAS RAMIRO",
               group:23,
               days:[
@@ -3399,6 +3576,7 @@ export class OrganizerComponent {
               ]
             },
             {
+              id: 400,
               name:"CHAVEZ MARCELA MABEL",
               group:24,
               days:[
@@ -3465,7 +3643,7 @@ export class OrganizerComponent {
     });
 
     doc.setFont("times", "bold");
-    doc.text('HORARIO - SIAT', 70, 15)
+    doc.text('HORARIO', 70, 15)
     const imgData = await this.loadImage('assets/img/dragon.png');
     doc.addImage(imgData, 'PNG', 120, 5, 18, 18)
 
@@ -3480,7 +3658,7 @@ export class OrganizerComponent {
       head:[columns],
       body:data,
     });
-    doc.save('HORARIO SIAT.pdf');
+    doc.save('HORARIO.pdf');
   }
   async generateImage() {
     Swal.fire({
