@@ -19,6 +19,15 @@ declare module 'jspdf' {
   styleUrls:['./organizer.component.css']
 })
 export class OrganizerComponent {
+
+  showSplash = true;
+
+  ngOnInit(): void {
+    setTimeout(() => {
+      this.showSplash = false;
+    }, 3500); // 3.5 segundos épicos
+  }
+
   @ViewChild('contenido', { static:false }) contenido!:ElementRef;
   test!:any;
   colors:any[] = [

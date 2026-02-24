@@ -1,3 +1,23 @@
+
+<!-- SPLASH SCREEN NOVA -->
+<div class="nova-splash" *ngIf="showSplash">
+  <div class="nova-content">
+
+    <img src="assets/img/dragon2.jpeg" class="nova-logo">
+
+    <h1 class="nova-title">
+      THIS IS <span>NOVA</span>
+    </h1>
+
+    <p class="nova-subtitle">
+      Administración de Empresas
+    </p>
+
+  </div>
+</div>
+
+<!-- CONTENIDO NORMAL -->
+<router-outlet *ngIf="!showSplash"></router-outlet>
 <div class="container">
 
   <div class="row"></div>
