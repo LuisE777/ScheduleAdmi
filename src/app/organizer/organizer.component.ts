@@ -20,6 +20,7 @@ declare module 'jspdf' {
 })
 export class OrganizerComponent {
   @ViewChild('contenido', { static:false }) contenido!:ElementRef;
+  test!:any;
   colors:any[] = [
     "#9fc0ff",
     "#babcfa",
