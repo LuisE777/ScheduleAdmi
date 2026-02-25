@@ -251,3 +251,94 @@ button{
     opacity: 0.6;
   }
 }
+
+/*titulo*/
+/* ===== DRAGON HEADER COMPACT ===== */
+
+.dragon-header {
+  width: 100%;
+  padding: 15px 25px;   /* 🔥 Reducimos altura */
+  border-radius: 14px;
+  background: linear-gradient(90deg, #0f2c4d, #1b4f8a, #ff007a);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+  border: 2px solid rgba(255,255,255,0.15);
+}
+
+.dragon-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.dragon-logo {
+  width: 70px;
+  height: auto;
+  max-height: 70px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.dragon-text {
+  text-align: left;
+  color: white;
+}
+
+.dragon-title {
+  font-size: 1.6rem;  /* 🔥 Más compacto */
+  font-weight: 900;
+  margin: 0;
+  letter-spacing: 2px;
+  line-height: 1.1;
+}
+
+.dragon-divider {
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(to right, #ff007a, #00d4ff);
+  margin: 6px 0;
+  border-radius: 2px;
+}
+
+.dragon-subtitle {
+  font-size: 1rem;
+  margin: 0;
+  color: #00d4ff;
+}
+
+.dragon-career {
+  font-size: 0.9rem;
+  margin: 0;
+  opacity: 0.9;
+  letter-spacing: 2px;
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media (max-width: 768px) {
+
+  .dragon-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .dragon-text {
+    text-align: center;
+  }
+
+  .dragon-logo {
+    width: 55px;
+  }
+
+  .dragon-title {
+    font-size: 1.3rem;
+  }
+
+  .dragon-subtitle {
+    font-size: 0.9rem;
+  }
+
+  .dragon-career {
+    font-size: 0.8rem;
+  }
+}
